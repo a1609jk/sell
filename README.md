@@ -12,7 +12,7 @@
 | 飞机灯 | 247.37 | 0 |  |
 | 洗衣机黄州 | 1499 | 0 |  |
 | 电视机+冰箱 | 4098 | 0 |  |
-| 客厅方灯 | 135.77 | x |  |
+| 客厅方灯 | 135.77 | 0 |  |
 | 儿童房贴纸 | 28.16 | 0 |  |
 | 合计 | 16189.6 |  |  |
 |  |  |  |  |
@@ -23,7 +23,37 @@
 | 篮球框 | 58 | x |  |
 | 合计 | 1488.2 |  |  |
 
-### 
+![](.gitbook/assets/image%20%2826%29.png)
+
+![](.gitbook/assets/image%20%2824%29.png)
+
+![](.gitbook/assets/image%20%2820%29.png)
+
+![](.gitbook/assets/image%20%2828%29.png)
+
+![](.gitbook/assets/image%20%2818%29.png)
+
+![](.gitbook/assets/image%20%2817%29.png)
+
+![](.gitbook/assets/image%20%2814%29.png)
+
+![](.gitbook/assets/image%20%2827%29.png)
+
+![](.gitbook/assets/image%20%2822%29.png)
+
+![](.gitbook/assets/image%20%2816%29.png)
+
+
+
+![](.gitbook/assets/image%20%2823%29.png)
+
+![](.gitbook/assets/image%20%2821%29.png)
+
+![](.gitbook/assets/image%20%2815%29.png)
+
+![](.gitbook/assets/image%20%2825%29.png)
+
+![](.gitbook/assets/image%20%2819%29.png)
 
 
 
