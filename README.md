@@ -53,7 +53,5 @@
 
 ![](.gitbook/assets/image%20%2825%29.png)
 
-![](.gitbook/assets/image%20%2819%29.png)
-
-
+![](.gitbook/assets/fgk0s18v_jmkam9iwmtze_htalo2v2.jpg)
 
